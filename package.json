@@ -1,5 +1,6 @@
 {
-    "name": "JuiceboxPackage",
+    "name": "com.Juicebox.JuiceboxPackage",
     "version": "1.0.0",
+    "displayName": "JuiceboxPackage",
     "unity": "2021.2"
 }
