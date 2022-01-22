@@ -5,9 +5,7 @@ using UnityEngine;
 public class EditorConfig : ScriptableObject
 {
     [SerializeField]
-#pragma warning disable CS0649, IDE0044
     private string _bundleName;
-#pragma warning restore CS0649, IDE0044
 
     public static string BundleName => Instance._bundleName;
 
